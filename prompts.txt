@@ -1,0 +1,24 @@
+Exercício 2
+Prompt simples: Explique brevemente o calculo de Cross Entropy Loss em redes neurais
+
+Prompt elaborado: Você é um especialista em Redes Neurais e em Deep learning. 
+
+Estou começando a aprender sobre redes neurais durante o curso de Ciência da Computação e preciso que você explique o funcionamento da função Cross Entropy Loss neste contexto. Mais especificamente preciso que detalhe as seguinte informações sobre o assunto:
+
+- Formula matemática aplicada na função, seu funcionamento e propriedades.
+- Para quais situações o uso da função é recomendado  e contraindicado.
+- Comparação entre a função de Cross Entropy Loss e de Mean Squared Error 
+
+Exercício 3
+Prompt: Faça um programa que leia um arquivo csv
+
+Exercicio 4
+Prompt: Faça um program em C que leia um arquivo csv chamado "clientes.csv" e imprima o resultado na tela em um formato de tabela.
+
+Crie uma struct para representar as informações de cada linha no arquivo e ao fazer a leitura armazene tudo em um único vetor.
+
+Os campos presentes no csv são: id, nome, email, cidade e idade. 
+
+A quantidade de entradas no arquivo é desconhecida.
+
+Se possível separa o código em funções simples e intuitivas que facilitem o reuso da lógica aplicada.
