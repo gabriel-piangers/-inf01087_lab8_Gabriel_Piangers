@@ -1,6 +1,6 @@
 # Introdução à Ciência da Computação - Lab 8
 
-## Descrilção da atividade
+## Descrição da atividade
 
 Neste laboratório, os alunos irão utilizar uma LLM de sua escolha para resolver pequenas tarefas acadêmicas e computacionais. O objetivo não é apenas obter respostas, mas aprender a interagir criticamente com a ferramenta.
 
